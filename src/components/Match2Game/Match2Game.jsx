@@ -12,6 +12,7 @@ import sprite_0 from "./assets/sprite-0.svg";
 import sprite_1 from "./assets/sprite-1.svg";
 import sprite_2 from "./assets/sprite-2.svg";
 import sprite_3 from "./assets/sprite-3.svg";
+// Also to be able to add more assets add more imports
 
 export default function Match2Game() {
   const ref = useRef(null);
@@ -23,7 +24,7 @@ export default function Match2Game() {
 
     const run = async () => {
       await app.init({
-        width: 400,
+        width: 400, // This one is the important to change
         height: 400,
         backgroundColor: 0x202020,
       });
