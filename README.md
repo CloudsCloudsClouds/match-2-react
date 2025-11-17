@@ -4,7 +4,7 @@ Todos los componentes necesarios estan en la carpeta components/Match2Games.
 
 Requiere pixi.js para su funcionamiento, y probablemente @pixi/react pero no estoy seguro porque no llege a utilizarlo
 
-El proyecto esta hecho en deno 2.5.x, descargalo [aqui](deno.com)
+El proyecto esta hecho en deno 2.5.x, descargalo [aqui](https://deno.com/)
 
 Usando deno, para instalar las dependencias:
 
